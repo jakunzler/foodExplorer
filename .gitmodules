@@ -1,0 +1,6 @@
+[submodule "foodExplorer-backend"]
+	path = foodExplorer-backend
+	url = https://github.com/jakunzler/foodExplorer-backend
+[submodule "foodExplorer-frontend"]
+	path = foodExplorer-frontend
+	url = https://github.com/jakunzler/foodExplorer-frontend
